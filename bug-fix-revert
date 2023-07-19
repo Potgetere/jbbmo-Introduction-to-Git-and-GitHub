@@ -1,0 +1,2 @@
+git@commit /c/revert example/
+$ git revert 46d3eda
